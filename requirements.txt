@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+pymongo
+python-jose
+python-multipart
+passlib
+ta
+pandas
+requests
+email-validator
